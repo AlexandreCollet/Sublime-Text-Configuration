@@ -3,11 +3,9 @@
 	[
 		"Vintage"
 	],
-	//"theme": "Spacegray.sublime-theme",
-	//"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/peacocks-in-space.tmTheme",
 	"theme": "predawn-DEV.sublime-theme",
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
-	"word_wrap": false,
-	"tabs_small": true,
+	"color_scheme": "Packages/Color Schemes/Peacock.tmTheme",
 	"findreplace_small": true,
+	"tabs_small": true,
+	"word_wrap": false
 }

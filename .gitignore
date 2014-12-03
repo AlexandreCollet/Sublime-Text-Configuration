@@ -15,3 +15,7 @@ Packages/User/*
 !Packages/User/*.sublime-keymap
 !Packages/User/*.sublime-settings
 !Packages/User/*.sublime-build
+
+# Garder les color schemes 
+!Packages/Color Schemes
+!Packages/Color Schemes/*
