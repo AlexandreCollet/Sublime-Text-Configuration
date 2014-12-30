@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -8,9 +16,10 @@
 		"Emmet",
 		"Git",
 		"GitGutter",
-		"Goto Documentation",
+		"GotoDocumentation",
 		"Jade",
 		"Origami",
+		"Package Control",
 		"PHP-Twig",
 		"Predawn",
 		"Sass",
