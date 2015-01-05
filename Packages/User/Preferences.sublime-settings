@@ -1,11 +1,11 @@
 {
+	"color_scheme": "Packages/Color Schemes/Peacock.tmTheme",
+	"findreplace_small": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "predawn-DEV.sublime-theme",
-	"color_scheme": "Packages/Color Schemes/Peacock.tmTheme",
-	"findreplace_small": true,
 	"tabs_small": true,
+	"theme": "predawn-DEV.sublime-theme",
 	"word_wrap": false
 }
