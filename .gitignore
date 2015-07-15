@@ -1,5 +1,6 @@
 # Tout ignorer sauf le fichier .gitignore
 *
+!README.md
 !.gitignore
 
 # Garder le plugin Package Control uniquement
@@ -16,6 +17,6 @@ Packages/User/*
 !Packages/User/*.sublime-settings
 !Packages/User/*.sublime-build
 
-# Garder les color schemes 
+# Garder les color schemes
 !Packages/Color Schemes
 !Packages/Color Schemes/*
