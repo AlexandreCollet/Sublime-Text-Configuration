@@ -5,6 +5,7 @@
 	[
 		"Vintage"
 	],
+	"index_files": false,
 	"tabs_small": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"word_wrap": false
