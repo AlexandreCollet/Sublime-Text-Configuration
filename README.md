@@ -2,9 +2,9 @@
 
 Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes packages, thèmes et paramètres personnalisés.
 
-### Installation
+## Installation
 
-##### Linux
+#### Linux
 
     cd ~/.config/sublime-text-3
     git init
@@ -12,7 +12,7 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
     git fetch
     git checkout -t origin/master
 
-##### Windows
+#### Windows
 
     cd %APPDATA%/Sublime Text 3
     git init
@@ -20,7 +20,7 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
     git fetch
     git checkout -t origin/master
 
-##### OS X
+#### OS X
 
     cd ~/Library/Application Support/Sublime Text 3
     git init
@@ -28,7 +28,7 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
     git fetch
     git checkout -t origin/master
 
-### Packages 
+## Packages 
 
 * [Alignment](http://wbond.net/sublime_packages/alignment)
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
