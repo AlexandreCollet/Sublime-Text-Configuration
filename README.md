@@ -1,5 +1,33 @@
 # Sublime-Text-Configuration
 
+Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes packages, thèmes et paramètres personnalisés.
+
+### Installation
+
+##### Linux
+
+    cd ~/.config/sublime-text-3
+    git init
+    git remote add origin https://github.com/AlexandreCollet/Sublime-Text-Configuration.git
+    git fetch
+    git checkout -t origin/master
+
+##### Windows
+
+    cd %APPDATA%/Sublime Text 3
+    git init
+    git remote add origin https://github.com/AlexandreCollet/Sublime-Text-Configuration.git
+    git fetch
+    git checkout -t origin/master
+
+##### OS X
+
+    cd ~/Library/Application Support/Sublime Text 3
+    git init
+    git remote add origin https://github.com/AlexandreCollet/Sublime-Text-Configuration.git
+    git fetch
+    git checkout -t origin/master
+
 ### Packages 
 
 * [Alignment](http://wbond.net/sublime_packages/alignment)
