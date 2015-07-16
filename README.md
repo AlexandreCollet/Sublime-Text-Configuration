@@ -42,3 +42,8 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 * [Sass](https://github.com/nathos/sass-textmate-bundle)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Stylus](https://github.com/billymoon/Stylus)
+
+## Shortcuts
+
+* `ctrl + alt + a` Aligner (Alignment)
+* `ctrl + shift + y` Faire le calcul mathématique (Emmet)`
