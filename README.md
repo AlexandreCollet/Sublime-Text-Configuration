@@ -42,8 +42,10 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 * [Sass](https://github.com/nathos/sass-textmate-bundle)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Stylus](https://github.com/billymoon/Stylus)
+* [Terminal](http://wbond.net/sublime_packages/terminal)
 
 ## Shortcuts
 
 * `ctrl + alt + a` Aligner (Alignment)
 * `ctrl + shift + y` Faire le calcul mathématique (Emmet)`
+* `ctrl + shift + t` Ouvrir un terminal à l'emplacement fu fichier courant (Terminal)
