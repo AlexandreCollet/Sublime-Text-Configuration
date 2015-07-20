@@ -36,6 +36,7 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Jade](https://github.com/davidrios/jade-tmbundle)
 * [JavaScriptNext - ES6 Syntax](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+* [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * [Origami](https://github.com/SublimeText/Origami)
 * [PHP-Twig](https://github.com/Anomareh/PHP-Twig.tmbundle)
 * [Predawn](https://github.com/jamiewilson/predawn)
