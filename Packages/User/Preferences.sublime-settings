@@ -1,14 +1,15 @@
 {
-    "color_scheme": "Packages/Color Schemes/Peacock.tmTheme",
-    "findreplace_small": true,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "index_files": false,
-    "tabs_small": true,
-    "theme": "predawn-DEV.sublime-theme",
-    "word_wrap": false,
-    "tab_size": 4,
-    "translate_tabs_to_spaces": true
+	"color_scheme": "Packages/Color Schemes/Peacock.tmTheme",
+	"default_line_ending": "unix",
+	"findreplace_small": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_files": false,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "predawn-DEV.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
 }
