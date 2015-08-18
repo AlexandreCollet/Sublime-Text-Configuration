@@ -32,6 +32,7 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 
 * [Alignment](http://wbond.net/sublime_packages/alignment)
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
+* [Dockerfile Syntax Highlighting](https://github.com/asbjornenge/Dockerfile.tmLanguage)
 * [Emmet](http://emmet.io/)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Jade](https://github.com/davidrios/jade-tmbundle)
