@@ -7,9 +7,11 @@
 		"Vintage"
 	],
 	"index_files": false,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_small": true,
 	"tab_size": 4,
 	"tabs_small": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": false,
+	"word_wrap": false
 }
