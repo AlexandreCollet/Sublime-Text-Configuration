@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Color Schemes/Peacock.tmTheme",
 	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
 	"findreplace_small": true,
 	"ignored_packages":
 	[
@@ -13,5 +14,6 @@
 	"tabs_small": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
