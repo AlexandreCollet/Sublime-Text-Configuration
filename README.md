@@ -51,5 +51,5 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 ## Shortcuts
 
 * `ctrl + alt + a` Aligner (Alignment)
-* `ctrl + shift + y` Faire le calcul mathématique (Emmet)
+* `ctrl + shift + y` Calculer le résultat de l'opération (Emmet)
 * `ctrl + shift + t` Ouvrir un terminal à l'emplacement du fichier courant (Terminal)
