@@ -37,6 +37,7 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Jade](https://github.com/davidrios/jade-tmbundle)
 * [JavaScriptNext - ES6 Syntax](https://github.com/Benvie/JavaScriptNext.tmLanguage)
+* [JSONLint](https://bitbucket.org/hmml/jsonlint)
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * [Nginx](https://github.com/brandonwamboldt/sublime-nginx)
 * [Origami](https://github.com/SublimeText/Origami)
@@ -50,5 +51,5 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 ## Shortcuts
 
 * `ctrl + alt + a` Aligner (Alignment)
-* `ctrl + shift + y` Faire le calcul mathématique (Emmet)
+* `ctrl + shift + y` Calculer le résultat de l'opération (Emmet)
 * `ctrl + shift + t` Ouvrir un terminal à l'emplacement du fichier courant (Terminal)
