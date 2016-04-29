@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Schemes/Peacock.tmTheme",
+	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"findreplace_small": true,
@@ -12,8 +12,8 @@
 	"predawn_tabs_small": true,
 	"tab_size": 4,
 	"tabs_small": true,
-	"theme": "predawn-DEV.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": true
 }
