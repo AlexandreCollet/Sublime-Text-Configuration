@@ -6,12 +6,12 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Babel",
 		"BracketHighlighter",
 		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"GitGutter",
 		"Jade",
-		"JavaScriptNext - ES6 Syntax",
 		"JSONLint",
 		"Markdown Preview",
 		"nginx",
