@@ -30,6 +30,8 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 
 ## Theme
 
+![](https://cloud.githubusercontent.com/assets/3273308/15449656/dc6b4286-1f83-11e6-8ce8-9e5a2e13936f.PNG)
+
 * **Theme**: Spacegray
 * **Color Scheme**: One Dark
 
