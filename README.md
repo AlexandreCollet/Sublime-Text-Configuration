@@ -28,25 +28,30 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
     git fetch
     git checkout -t origin/master
 
+## Theme
+
+* **Theme**: Spacegray
+* **Color Scheme**: One Dark
+
 ## Packages 
 
 * [Alignment](http://wbond.net/sublime_packages/alignment)
+* [Babel](https://github.com/babel/babel-sublime/)
 * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
 * [Dockerfile Syntax Highlighting](https://github.com/asbjornenge/Dockerfile.tmLanguage)
 * [Emmet](http://emmet.io/)
 * [GitGutter](https://github.com/jisaacks/GitGutter)
 * [Jade](https://github.com/davidrios/jade-tmbundle)
-* [JavaScriptNext - ES6 Syntax](https://github.com/Benvie/JavaScriptNext.tmLanguage)
 * [JSONLint](https://bitbucket.org/hmml/jsonlint)
 * [Markdown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 * [Nginx](https://github.com/brandonwamboldt/sublime-nginx)
+* [One Dark Color Scheme](https://github.com/IceTimux/one-dark-sublime-text-3-color-scheme)
 * [Origami](https://github.com/SublimeText/Origami)
-* [PHP-Twig](https://github.com/Anomareh/PHP-Twig.tmbundle)
-* [Predawn](https://github.com/jamiewilson/predawn)
 * [Sass](https://github.com/nathos/sass-textmate-bundle)
 * [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [Stylus](https://github.com/billymoon/Stylus)
 * [Terminal](http://wbond.net/sublime_packages/terminal)
+* [Theme - Spacegray](https://github.com/kkga/spacegray)
 
 ## Shortcuts
 
