@@ -1,6 +1,6 @@
 # Sublime-Text-Configuration
 
-Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes packages, thèmes et paramètres personnalisés.
+My Sublime Text 3 configuration.
 
 ## Installation
 
@@ -57,6 +57,6 @@ Sauvegarde de ma configuration Sublime Text 3 incluant l'ensemble de mes package
 
 ## Shortcuts
 
-* `ctrl + alt + a` Aligner (Alignment)
-* `ctrl + shift + y` Calculer le résultat de l'opération (Emmet)
-* `ctrl + shift + t` Ouvrir un terminal à l'emplacement du fichier courant (Terminal)
+* `ctrl + alt + a` Align (Alignment)
+* `ctrl + shift + y` Compute (Emmet)
+* `ctrl + shift + t` Open a terminal at the location of the current file (Terminal)
